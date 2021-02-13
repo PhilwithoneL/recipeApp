@@ -178,17 +178,6 @@ input::placeholder {
     transform: translateZ(1px);
 }
 
-.recipe-img-1 {
-    background-image: url(https://spoonacular.com/recipeImages/670998-312x231.jpg);
-}
-
-.recipe-img-2 {
-    background-image: url(https://spoonacular.com/recipeImages/76953-312x231.jpg);
-}
-
-.recipe-img-3 {
-    background-image: url(https://spoonacular.com/recipeImages/592424-312x231.jpg);
-}
 
 .recipe-card-back {
     width: 150px;
@@ -246,4 +235,3 @@ input::placeholder {
     color: #30384149;
     text-decoration: none;
 }
-
